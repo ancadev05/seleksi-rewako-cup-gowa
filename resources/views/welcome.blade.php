@@ -20,6 +20,7 @@
     {{-- registrasi --}}
     <div style="background-color: #ff6a00;" data-aos="fade-up" class="mt-5">
         <div class="container">
+            <h1 class="text-center">DAFTAR SELEKSI TIM GOWA</h1>
             <a href="https://wa.wizard.id/08f913" target="_blank" class="d-block bg-primary ">
                 <img src="{{ asset('storage/img-web/regis.png') }}" class="" alt="..." width="100%">
             </a>
@@ -30,7 +31,7 @@
     <section class="services sections-bg">
         <div class="container">
             <h5 class="text-center">Jika sudah memiliki akun, silahkan login ke aplikasi</h5>
-            <a href="http://rewako.tapaksuci177gowa.or.id/login" class="btn btn-danger d-block ">Login</a>
+            <a href="https://seleksi.tapaksuci177gowa.or.id/login" class="btn btn-danger d-block ">Login</a>
         </div>
     </section>
 
